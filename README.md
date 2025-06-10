@@ -34,11 +34,15 @@ A mobile-ready real estate calculator app designed to compute Total Contract Pri
 git clone https://github.com/your-username/lot-price-pilot-app-shad.git
 cd lot-price-pilot-app-shad
 npm install
+```
 
-🔧 Development Server
+### 🔧 Development Server
+```bash
 npm run dev
+```
 
-📱 Build for Production & Mobile
+### 📱 Build for Production & Mobile
+```bash
 npm run build
 npx cap sync
 npx cap add android    # or ios
